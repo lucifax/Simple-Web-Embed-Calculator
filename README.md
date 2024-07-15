@@ -1,4 +1,4 @@
-# Simple-Web-Embed-Calculator
+# Simple Reusable Web Embed Calculator
 
 This is a simple web calculator with webembedding. Put all the files in the same folder and run the HTML file to test it. 
 
